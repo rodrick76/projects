@@ -1,0 +1,8 @@
+.prod{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 100%;
+    width: 420px;
+    background-color: aliceblue;
+}

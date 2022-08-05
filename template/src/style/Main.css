@@ -1,0 +1,9 @@
+.main-box{
+    height: 650px;
+    width: 1350px;
+    display: flex;
+    flex-direction: column;
+    padding: 2.5rem;
+    background-color: black;
+    justify-content: space-between;
+}

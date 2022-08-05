@@ -1,0 +1,10 @@
+.Top{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    height: 80%;
+    width: 100%;
+    background-color: blue;
+    padding: 0;
+}

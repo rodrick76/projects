@@ -1,0 +1,9 @@
+.sup{
+    height: 45%;
+    width: 100%;
+    background-color: aqua;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
